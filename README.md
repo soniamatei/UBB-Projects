@@ -1,18 +1,16 @@
 # UBB-Projects
 ```
-├───Data Structures & Algorithms 
-│   └───Projects
-│       ├───SortedBag
-│       ├───SortedIteratedList
-│       ├───SortedMultiMap
-│       ├───SortedMultiMap1
-│       └───SortedSet
+├───Data Structures & Algorithms
+│   ├───SortedBag
+│   ├───SortedIteratedList
+│   ├───SortedMultiMap
+│   ├───SortedMultiMap1
+│   └───SortedSet
 ├───Databases
 ├───Functional and Logical Programming
 │   └───Project1
 ├───Graph Algorithms
 │   ├───Practical_work_1
-│   │   └───Practical_work_1_project
 │   ├───Practical_work_2
 │   ├───Practical_work_3
 │   ├───Practical_work_4
