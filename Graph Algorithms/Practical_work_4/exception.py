@@ -1,0 +1,2 @@
+class UndirectedGraphException(Exception):
+    pass
